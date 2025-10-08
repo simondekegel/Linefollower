@@ -12,8 +12,8 @@
 |         7|   15 Pins header Female | fermale headers 15 pin           | nieuw          |  €0.31            | 2     | €0.62        |
 |         8|   18650   | batterij          | nieuw          | €1.45             | 2     | €2.90        |
 |         9|    2x 18650 Batterijhouder met klemkontacten en losse draden |           |           |              |      |         |
-|         10|   Keeppower 2x 18650  batterijendoosje |            |           |              |      |         |
-|         11|   XTAR MC2 USB-C batterijlader |            |           |              |      |         |
+|         10|   Keeppower 2x 18650  batterijendoosje | batterijdoos           | nieuw          | €0.75             |1      | €0.75        |
+|         11|   XTAR MC2 USB-C batterijlader | batterijlader           |  nieuw         | €4.75             |1      | €4.75        |
 |         12| motorklemmen   |            | recup          |              |      |         |
 |         1|    |            |           |              |      |         |
 |         1|    |            |           |              |      |         |
