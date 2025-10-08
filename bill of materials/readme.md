@@ -6,8 +6,8 @@
 |         1|    HC-05 Bluetooth module met adapter - clone| bluetooth module           | recup          | €5.80             |      |         |
 |         2|    Arduino Nano R3 - kloon - met headers| Arduino Nano           |           |              |      |         |
 |         3|    Female header stackable 6 pin | Female headers 6 pin           | nieuw          |              | 6     |         |
-|         4|    Fasizi 5 x DRV8833|            |           |              |      |         |
-|         5|   8x IR Lijn Tracking Module |            |           |              |      |         |
+|         4|    Fasizi 5 x DRV8833|dubbele H-brug            | nieuw          | €5.99             | 1     |€5.99         |
+|         5|   8x IR Lijn Tracking Module |            | nieuw          | €3.50             | 1     | €3.50        |
 |         6|    Aslong JGA12-N20-30 DC-Transmissiemotor 6V - 500RPM|            |           |              |      |         |
 |         7|   15 Pins header Female | fermale headers 15 pin           | nieuw          |  €0.31            | 2     | €0.62        |
 |         8|   18650   | batterij          | nieuw          | €1.45             | 2     | €2.90        |
