@@ -9,12 +9,12 @@
 |         4|    Fasizi 5 x DRV8833|            |           |              |      |         |
 |         5|   8x IR Lijn Tracking Module |            |           |              |      |         |
 |         6|    Aslong JGA12-N20-30 DC-Transmissiemotor 6V - 500RPM|            |           |              |      |         |
-|         7|   15 Pins header Female |            |           |              |      |         |
-|         8|   18650   |           |           |              |      |         |
+|         7|   15 Pins header Female | fermale headers 15 pin           | nieuw          |  €0.31            | 2     | €0.62        |
+|         8|   18650   | batterij          | nieuw          | €1.45             | 2     | €2.90        |
 |         9|    2x 18650 Batterijhouder met klemkontacten en losse draden |           |           |              |      |         |
 |         10|   Keeppower 2x 18650  batterijendoosje |            |           |              |      |         |
 |         11|   XTAR MC2 USB-C batterijlader |            |           |              |      |         |
-|         12| motorklemmen   |            |           |              |      |         |
+|         12| motorklemmen   |            | recup          |              |      |         |
 |         1|    |            |           |              |      |         |
 |         1|    |            |           |              |      |         |
 |         1|    |            |           |              |      |         |
