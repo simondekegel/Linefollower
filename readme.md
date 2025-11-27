@@ -1,27 +1,28 @@
 # LineFollower
 
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
+![516304872-0ebdff40-2b66-4d8c-be46-cdccf1087acf](https://github.com/user-attachments/assets/f421fef4-4a35-405a-92f4-922b17bad70c)
 
-![A description of my image](images/empty.png)
+
+
+
 
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino nano (clone)
 
-motors: 
+motors: N20---30:1---500RPM 
 
-h-bridge:
+h-bridge: DRV8833
 
-sensors:
+sensors: HY-S301
 
-batteries:
+batteries: 2x 18650 lipo
 
-wireless communication:
+wireless communication: HC-08 
 
-distance sensor - motors:
+distance sensor - motors: 9.92cm
 
-weight:
+weight: 214gr
 
 speed: 
-
